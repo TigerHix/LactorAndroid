@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breastfeeding_latching">
+        <item>Latched correctly</item>
+        <item>Latched with nipple shield</item>
+        <item>Breast slipping</item>
+        <item>Not at all</item>
+    </string-array>
+    <string-array name="breastfeeding_baby_alertness">
+        <item>Active and alert</item>
+        <item>Quiet and alert</item>
+        <item>Crying</item>
+        <item>Drowsy</item>
+        <item>Difficult to awake</item>
+    </string-array>
+    <string-array name="breastfeeding_problems">
+        <item>No problems</item>
+        <item>Soft breast tissue / No milk coming in</item>
+        <item>Sore nipple</item>
+        <item>Flat or inverted nipple</item>
+        <item>Engorgement</item>
+        <item>Mastitis</item>
+    </string-array>
+</resources>
